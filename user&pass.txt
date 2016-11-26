@@ -1,0 +1,9 @@
+Admin :
+1. admin1, admin1
+
+
+Dosen :
+1. 1411100100, dosen1
+
+Mahasiswa :
+1. 1411502493, mahasiswa1
